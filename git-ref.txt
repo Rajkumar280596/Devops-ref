@@ -4,6 +4,7 @@ git commit -m " "
 git diff
 git status
 git log
+git log --oneline
 git reset -=hard "commit id"
 git branch
 git checkout "branch name"
