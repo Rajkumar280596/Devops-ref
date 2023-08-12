@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m " "
+git diff
+git status
+git log
+git reset -=hard "commit id"
+git branch
+git checkout "branch name"
+git clone "url"
+git remote -v #to check remote is connected
+git merge
+git rebase
+git cherry-pick
